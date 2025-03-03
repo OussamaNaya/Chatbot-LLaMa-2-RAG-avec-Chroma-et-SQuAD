@@ -21,4 +21,4 @@ Ce projet implémente un chatbot utilisant le modèle **LLaMa 2** pour des tâch
 
 1. Clonez ce repository :
    ```bash
-   git clone https://github.com/votre-nom-utilisateur/rag-chatbot-llama2.git
+   git clone https://github.com/OussamaNaya/Chatbot-LLaMa-2-RAG-avec-Chroma-et-SQuAD.git
